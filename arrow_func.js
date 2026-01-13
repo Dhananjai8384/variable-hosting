@@ -24,7 +24,7 @@ sayHey();
 const sayHey = () => {
     console.log("Hey");
 }
-
+ 
 // 4. this keyword
 const obj = {
     value: 20,
